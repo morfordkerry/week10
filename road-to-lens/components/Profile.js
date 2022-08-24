@@ -52,4 +52,4 @@ export default function Profile(props) {
       </Link>
     </div>
   );
-}
+} 
